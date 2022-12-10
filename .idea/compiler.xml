@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zyx-framework" />
+        <module name="zyx-generator" />
+        <module name="zyx-system" />
+        <module name="zyx-common" />
+        <module name="zyx-admin" />
+        <module name="zyx-quartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zyx-admin" target="1.8" />
+      <module name="zyx-common" target="1.8" />
+      <module name="zyx-framework" target="1.8" />
+      <module name="zyx-generator" target="1.8" />
+      <module name="zyx-quartz" target="1.8" />
+      <module name="zyx-system" target="1.8" />
+      <module name="zyxiangproject" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

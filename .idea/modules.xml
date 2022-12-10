@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZyxiangProject.iml" filepath="$PROJECT_DIR$/.idea/ZyxiangProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-admin/zyx-admin.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-admin/zyx-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-common/zyx-common.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-common/zyx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-framework/zyx-framework.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-framework/zyx-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-generator/zyx-generator.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-generator/zyx-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-quartz/zyx-quartz.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-quartz/zyx-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyx-system/zyx-system.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyx-system/zyx-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZyxiangProject/zyxiangproject.iml" filepath="$PROJECT_DIR$/ZyxiangProject/zyxiangproject.iml" />
+    </modules>
+  </component>
+</project>
